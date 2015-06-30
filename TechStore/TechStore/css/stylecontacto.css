@@ -1,0 +1,75 @@
+﻿*{
+	margin:0px;
+	padding:0px;
+	font-family: helvetica Neue;
+	font-weight: lighter;
+}
+
+body{
+	background-color: #e2e2e2;
+}
+
+img#logo {
+    margin-left: 10px;
+    width: 380px;
+    height: 150px;    
+    border-radius: 100px;   
+    margin-top: 10px;   
+}
+
+section#formulario{
+	position: absolute;
+	top:42%;
+	left: 50%;
+	margin-left: -200px;
+	margin-top: -130px;
+	width:400px;
+	min-height: 100px;
+	background-color: #3C3C3C;
+	overflow: hidden;
+	border-radius: 5px;
+    height: 381px;
+}
+
+p#titulo{
+	font-size: 1.6em;
+	text-align: center;
+	margin-top: 20px;
+    color: white;
+}
+
+
+input[type="text"], input[type="mail"]{
+	border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    margin-left: 20px;
+	margin-top:10px;
+	padding-left: 10px;
+	font-size: 1.1em;
+	outline: none;
+	background-color: #dcdcdc;
+	border-radius: 5px;
+}
+
+textarea#comentario{
+    max-width: 350px;
+    min-width: 350px;
+	max-height: 100px;
+    min-height: 100px;
+	margin-left: 20px;
+	margin-top:10px;
+	padding-left: 10px;
+	font-size: 1.1em;
+	outline: none;
+	border:0px;
+	background-color: #dcdcdc;
+	border-radius: 5px;
+}
+#password{
+     margin-top: 8px;
+     margin-left: 20px;
+}
+input[type="submit"]{
+    margin : auto;
+}

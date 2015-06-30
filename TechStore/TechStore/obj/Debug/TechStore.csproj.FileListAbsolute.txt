@@ -1,0 +1,6 @@
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\TechStore\TechStore\bin\TechStore.dll.config
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\TechStore\TechStore\bin\TechStore.dll
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\TechStore\TechStore\bin\TechStore.pdb
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\TechStore\TechStore\obj\Debug\TechStore.dll
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\TechStore\TechStore\obj\Debug\TechStore.pdb
+C:\Users\Ramón\Documents\Visual Studio 2013\Projects\TechStore\TechStore\obj\Debug\TechStore.csprojResolveAssemblyReference.cache
